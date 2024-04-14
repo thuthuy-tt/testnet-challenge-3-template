@@ -1,5 +1,5 @@
 # Template for Polymer Challenge 3
-
+## Do you want to do challenge 4?
 This repo provides template code to complete Polymer Testnet Challenge 3: https://forum.polymerlabs.org/t/challenge-3-cross-contract-query-with-polymer/475
 
 ## 📚 Documentation
